@@ -1,5 +1,5 @@
 Created a new file.
-Changed file.
+Changed file. BBBB
 Change 1.
 Change 2.
 Change 3 in testing_branc1.
